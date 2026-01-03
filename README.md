@@ -7,7 +7,7 @@ I am a highly motivated **Computer Science graduate** from Bar-Ilan University w
 ### 🚀 About Me
 * 🎓 **Education:** B.Sc. in Computer Science from Bar-Ilan University (GPA: 85).
 * 🛠️ **Experience:** Strong foundation in programming, data validation, and system administration.
-* 🎖️ **Leadership:** Former Combatant Soldier in a Search and Rescue Battalion, bringing high-stakes problem-solving and resilience to tech.
+* 🎖️ **Leadership:** Bringing high-stakes problem-solving and resilience to tech.
 * 🌍 **Languages:** Native Hebrew and highly proficient English.
 
 ---
