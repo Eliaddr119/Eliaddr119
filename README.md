@@ -23,11 +23,6 @@ I am a highly motivated **Computer Science graduate** from Bar-Ilan University w
 
 ---
 
-### 📊 GitHub Stats
-![Eliad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eliaddr119&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliaddr119&layout=compact&theme=radical)
-
----
 
 ### 🛠️ Featured Projects
 
