@@ -19,7 +19,7 @@ I am a highly motivated **Computer Science graduate** from Bar-Ilan University w
 | **Languages** | Python, C, C++, Java, JavaScript, Go (Golang) |
 | **Full-Stack** | React.js, Node.js, Express.js, MongoDB |
 | **Specialized** | Parallel Programming (MPI/OpenMP - Grade 100), Networking |
-| **Systems/Tools** | Linux, Windows, Git, Docker, GDB |
+| **Systems/Tools** | Docker, Linux, Windows, Git, GDB |
 
 ---
 
