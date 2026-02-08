@@ -26,7 +26,8 @@ I am a highly motivated **Computer Science graduate** from Bar-Ilan University w
 
 ### 🛠️ Featured Projects
 
-#### [Automated Seating Planner](https://github.com/Eliaddr119/PerfecTable) [Link To The Project's Website](https://perfectable.up.railway.app/)
+#### [Automated Seating Planner](https://github.com/Eliaddr119/PerfecTable)
+* **[Link To The Project's Website](https://perfectable.up.railway.app/)**
 * **Tech:** React, Node.js, Express, Python, MongoDB.
 * **Impact:** Developed a full-stack app using a **genetic algorithm** in Python to optimize seating based on guest constraints.
 
