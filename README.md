@@ -35,7 +35,7 @@ I am a highly motivated **Computer Science graduate** from Bar-Ilan University w
 * **Tech:** Full-stack Web & Android.
 * **Impact:** Engineered a robust platform for user interaction and data management.
 
-#### [Arkanoid Game](https://github.com/Eliaddr119)
+#### [Arkanoid Game]([https://github.com/Eliaddr119](https://github.com/Eliaddr119/OOP-Arkanoid-Game))
 * **Tech:** Java, Object-Oriented Design & GUI.
 * **Impact:** Focused on clean OOP principles and graphical interface development.
 
