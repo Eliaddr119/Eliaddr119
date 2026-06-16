@@ -12,6 +12,13 @@ I am a highly motivated **Computer Science graduate** from Bar-Ilan University w
 
 ---
 
+### 📫 Let's Connect!
+* **LinkedIn:** [linkedin.com/in/eliad-drori](http://www.linkedin.com/in/eliad-drori)
+* **Email:** Eliad.drori@gmail.com
+* **Location:** Petah Tikva, Israel
+
+---
+
 ### 💻 Technical Toolbox
 
 | Category | Technologies |
@@ -41,7 +48,4 @@ I am a highly motivated **Computer Science graduate** from Bar-Ilan University w
 
 ---
 
-### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/eliad-drori](http://www.linkedin.com/in/eliad-drori)
-* **Email:** Eliad.drori@gmail.com
-* **Location:** Petah Tikva, Israel
+
