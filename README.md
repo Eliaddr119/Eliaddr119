@@ -38,6 +38,10 @@ I am a highly motivated **Computer Science graduate** from Bar-Ilan University w
 * **Tech:** React, Node.js, Express, Python, MongoDB.
 * **Impact:** Developed a full-stack app using a **genetic algorithm** in Python to optimize seating based on guest constraints.
 
+#### [AWS IAM Policy Classifier](https://github.com/Eliaddr119/aws-iam-policy-classifier)
+* **Tech:** Python, Groq API, Llama 3.3 70B, Multi-Agent LLM Architecture.
+* **Impact:** Built an AI-powered AWS IAM policy analysis engine that classifies security risks, automatically generates least-privilege remediations, and validates fixes through an adversarial multi-agent workflow, achieving 93.3% classification accuracy.
+
 #### [Social Media Platform](https://github.com/Eliaddr119)
 * **Tech:** Full-stack Web & Android.
 * **Impact:** Engineered a robust platform for user interaction and data management.
