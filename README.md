@@ -41,6 +41,11 @@ I am a highly motivated **Computer Science graduate** from Bar-Ilan University w
 * **Tech:** React, Node.js, Express, Python, MongoDB.
 * **Impact:** Developed a full-stack app using a **genetic algorithm** in Python to optimize seating based on guest constraints.
 
+#### [Full-Stack Memorial Platform](https://github.com/Eliaddr119/remember-gal)
+* **[Link To The Project's Website](https://for-gal.up.railway.app/)**
+* **Tech:** Next.js 14, TypeScript, Supabase, PostgreSQL, Tailwind CSS, NextAuth.js.
+* **Impact:** Developed a production-ready memorial platform while applying AI-assisted development (Claude Code) for rapid prototyping, code generation, debugging, and architectural design, demonstrating effective human-AI software engineering workflows.
+
 #### [AWS IAM Policy Classifier](https://github.com/Eliaddr119/aws-iam-policy-classifier)
 * **Tech:** Python, Groq API, Llama 3.3 70B, Multi-Agent LLM Architecture.
 * **Impact:** Built an AI-powered AWS IAM policy analysis engine that classifies security risks, automatically generates least-privilege remediations, and validates fixes through an adversarial multi-agent workflow, achieving 93.3% classification accuracy.
