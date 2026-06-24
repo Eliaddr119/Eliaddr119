@@ -16,8 +16,7 @@ I am a highly motivated **Computer Science graduate** from Bar-Ilan University w
 
 Explore my projects, technical skills, and software engineering journey:
 
-🔗 **Portfolio Website:** [https://your-portfolio-domain.com
-](https://eliad-drori.up.railway.app/)
+🔗 **Portfolio Website:** [](https://eliad-drori.up.railway.app/)
 ---
 
 ### 📫 Let's Connect!
