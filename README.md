@@ -16,13 +16,14 @@ I am a highly motivated **Computer Science graduate** from Bar-Ilan University w
 
 Explore my projects, technical skills, and software engineering journey:
 
-🔗 **Portfolio Website:** [](https://eliad-drori.up.railway.app/)
+🔗 **Portfolio Website:** [eliad-drori.up.railway.app](https://eliad-drori.up.railway.app/)
 ---
 
 ### 📫 Let's Connect!
 * **LinkedIn:** [linkedin.com/in/eliad-drori](http://www.linkedin.com/in/eliad-drori)
 * **Email:** Eliad.drori@gmail.com
 * **Location:** Petah Tikva, Israel
+* **Portfolio:** https://eliad-drori.up.railway.app
 
 ---
 
